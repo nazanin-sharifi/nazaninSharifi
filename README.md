@@ -1,8 +1,12 @@
-## My ingredients | Hi World ! &#128075;
+## This Is Where It All Begins ! | Typing Code... &#128075;
 
 <img align="center" src="https://github.com/mikaela4518/mikaela4518/assets/143528080/6976bdb4-aedd-487b-9ce7-2b849b1ec10c" alt="just for fun">
 
-<h2 align="center"> &#128126; نازنین شریفی &#128126;</h2>
+<h2 align="center">  نازنین شریفی Nazanin Sharifi </h2>
+
+<h3>Hard skills | مهارت های تخصصی</h3> <br>
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 <h3>Soft skills | مهارت های شخصیتی</h3>
 <p>   
@@ -12,10 +16,6 @@
  &#128293; کنجکاوی و کمالگرایی <br>
 
 </p>
-
-<h3>Hard skills | مهارت های تخصصی</h3>
-
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&#127775;     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&#127775;     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&#11088;
 
 <h3>Teamwork tools | ابزار های کار تیمی</h3>
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
